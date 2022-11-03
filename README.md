@@ -1,8 +1,6 @@
-
 <div align="center"> 
   <h1>ft_printf</h1>
 </div>
-
 <div align="center">
   <br>
   <br>
